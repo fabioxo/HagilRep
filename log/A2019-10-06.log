@@ -1,0 +1,7 @@
+HagilRep.exe: 0000231C: 18:05:30 []:>--------------------------------------------------------------<
+HagilRep.exe: 0000231C: 18:05:30 [TUniServerModule]:Server First Init.
+HagilRep.exe: 0000231C: 18:05:30 [TUniServerModule]:Starting HTTP Server...
+HagilRep.exe: 0000231C: 18:05:30 [TUniServerModule]:HTTP Server Started. Port: 8075
+HagilRep.exe: 00000E90: 18:05:35 [127.0.0.1]:EUniSessionException : Tempo limite exedido ou o servidor foi reiniciado : Addr: $007DA83A
+HagilRep.exe: 00000E90: 18:05:35 [HandleFileRequest[127.0.0.1]]:File not found: C:\HagilRep\files\Font-Awesome-master\css\font-awesome.min.css
+HagilRep.exe: 00001430: 18:05:35 [HandleFileRequest[127.0.0.1]]:File not found: C:\HagilRep\files\Font-Awesome-master\css\font-awesome.min.css
