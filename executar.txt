@@ -1,0 +1,2 @@
+UPDATE movimento SET excluido = 0 WHERE (id > 0);
+UPDATE mov_caixa SET excluido = 0 WHERE (id > 0);
