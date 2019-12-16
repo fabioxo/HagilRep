@@ -1,7 +1,154 @@
-HagilRep.exe: 0000231C: 18:05:30 []:>--------------------------------------------------------------<
-HagilRep.exe: 0000231C: 18:05:30 [TUniServerModule]:Server First Init.
-HagilRep.exe: 0000231C: 18:05:30 [TUniServerModule]:Starting HTTP Server...
-HagilRep.exe: 0000231C: 18:05:30 [TUniServerModule]:HTTP Server Started. Port: 8075
-HagilRep.exe: 00000E90: 18:05:35 [127.0.0.1]:EUniSessionException : Tempo limite exedido ou o servidor foi reiniciado : Addr: $007DA83A
-HagilRep.exe: 00000E90: 18:05:35 [HandleFileRequest[127.0.0.1]]:File not found: C:\HagilRep\files\Font-Awesome-master\css\font-awesome.min.css
-HagilRep.exe: 00001430: 18:05:35 [HandleFileRequest[127.0.0.1]]:File not found: C:\HagilRep\files\Font-Awesome-master\css\font-awesome.min.css
+HagilRep.exe: 0000215C: 09:31:03 []:>--------------------------------------------------------------<
+HagilRep.exe: 0000215C: 09:31:03 [TUniServerModule]:Server First Init.
+HagilRep.exe: 0000215C: 09:31:03 [TUniServerModule]:Erasing Cache Folder...
+HagilRep.exe: 0000215C: 09:31:03 [TUniServerModule]:Cache Folder Erased. <2> Files deleted.
+HagilRep.exe: 0000215C: 09:31:03 [TUniServerModule]:Starting HTTP Server...
+HagilRep.exe: 0000215C: 09:31:03 [TUniServerModule]:HTTP Server Started. Port: 8075
+HagilRep.exe: 00001D10: 09:31:21 [HandleFileRequest[127.0.0.1]]:File not found: C:\Hágil\files\Font-Awesome-master\css\font-awesome.min.css
+HagilRep.exe: 0000206C: 09:31:22 [HandleFileRequest[127.0.0.1]]:File not found: C:\Hágil\files\Font-Awesome-master\css\font-awesome.min.css
+HagilRep.exe: 00001524: 09:34:09 [127.0.0.1]:EDatabaseError : Field 'conta' must have a value : Addr: $00674D13
+HagilRep.exe: 00001524: 09:34:15 [127.0.0.1]:EDatabaseError : Field 'conta' must have a value : Addr: $00674D13
+HagilRep.exe: 00001524: 09:35:31 [127.0.0.1]:EDatabaseError : Field 'conta' must have a value : Addr: $00674D13
+HagilRep.exe: 000004FC: 11:58:16 [127.0.0.1]:EUniSessionException : Tempo limite exedido ou o servidor foi reiniciado : Addr: $007DA83A
+HagilRep.exe: 000004FC: 11:58:22 [HandleFileRequest[127.0.0.1]]:File not found: C:\Hágil\files\Font-Awesome-master\css\font-awesome.min.css
+HagilRep.exe: 00002B04: 11:58:23 [HandleFileRequest[127.0.0.1]]:File not found: C:\Hágil\files\Font-Awesome-master\css\font-awesome.min.css
+HagilRep.exe: 0000215C: 12:13:05 [TUniServerModule]:Shutting Down Server.
+HagilRep.exe: 00002158: 12:13:05 [Indy]:EIdNotConnected : Not Connected : Addr: $006F9C2A
+HagilRep.exe: 0000215C: 12:13:06 [TUniServerModule]:HTTP Server Stopped.
+HagilRep.exe: 0000215C: 12:13:06 [TUniGUISessionManager]:Terminating Session manager.
+HagilRep.exe: 0000215C: 12:13:06 [TUniGUISessionManager]:Stopping Cache Eraser...
+HagilRep.exe: 0000215C: 12:13:06 [TUniGUISessionManager]:Cache Eraser Stopped.
+HagilRep.exe: 0000215C: 12:13:06 [TUniGUISessionManager]:Destroying Worker Threads.
+HagilRep.exe: 0000215C: 12:13:06 [TUniGUISessionManager]:Session manager terminated.
+HagilRep.exe: 0000215C: 12:13:06 [TUniServerModule]:Server Shutdown Completed.
+HagilRep.exe: 0000215C: 12:13:06 []:<-------------------------------------------------------------->
+HagilRep.exe: 0000215C: 12:13:06 [Terminated]:Exit Code: 0
+HagilRep.exe: 00001AD0: 12:15:06 []:>--------------------------------------------------------------<
+HagilRep.exe: 00001AD0: 12:15:06 [TUniServerModule]:Server First Init.
+HagilRep.exe: 00001AD0: 12:15:06 [TUniServerModule]:Erasing Cache Folder...
+HagilRep.exe: 00001AD0: 12:15:06 [TUniServerModule]:Cache Folder Erased. <0> Files deleted.
+HagilRep.exe: 00001AD0: 12:15:06 [TUniServerModule]:Starting HTTP Server...
+HagilRep.exe: 00001AD0: 12:15:06 [TUniServerModule]:HTTP Server Started. Port: 8075
+HagilRep.exe: 00002A0C: 12:15:28 [127.0.0.1]:EUniSessionException : Tempo limite exedido ou o servidor foi reiniciado : Addr: $007DA83A
+HagilRep.exe: 00002A0C: 12:15:33 [HandleFileRequest[127.0.0.1]]:File not found: C:\Hágil\files\Font-Awesome-master\css\font-awesome.min.css
+HagilRep.exe: 00002A18: 12:18:28 [127.0.0.1]:EDatabaseError : Field 'conta' must have a value : Addr: $00674D13
+HagilRep.exe: 00002A18: 12:23:58 [127.0.0.1]:EDatabaseError : Field 'conta' must have a value : Addr: $00674D13
+HagilRep.exe: 00002A18: 12:25:29 [127.0.0.1]:EDatabaseError : Field 'conta' must have a value : Addr: $00674D13
+HagilRep.exe: 000020BC: 12:42:25 [127.0.0.1]:EUniSessionException : Tempo limite exedido ou o servidor foi reiniciado : Addr: $007DA83A
+HagilRep.exe: 000020BC: 12:42:30 [HandleFileRequest[127.0.0.1]]:File not found: C:\Hágil\files\Font-Awesome-master\css\font-awesome.min.css
+HagilRep.exe: 000022B4: 14:35:57 [127.0.0.1]:EUniSessionException : Tempo limite exedido ou o servidor foi reiniciado : Addr: $007DA83A
+HagilRep.exe: 000022B4: 14:36:00 [HandleFileRequest[127.0.0.1]]:File not found: C:\Hágil\files\Font-Awesome-master\css\font-awesome.min.css
+HagilRep.exe: 00001AD0: 15:24:15 [TUniServerModule]:Shutting Down Server.
+HagilRep.exe: 00001AD0: 15:24:15 [TUniServerModule]:HTTP Server Stopped.
+HagilRep.exe: 00001AD0: 15:24:15 [TUniGUISessionManager]:Terminating Session manager.
+HagilRep.exe: 00001AD0: 15:24:15 [TUniGUISessionManager]:Stopping Cache Eraser...
+HagilRep.exe: 00001AD0: 15:24:15 [TUniGUISessionManager]:Cache Eraser Stopped.
+HagilRep.exe: 00001AD0: 15:24:15 [TUniGUISessionManager]:Destroying Worker Threads.
+HagilRep.exe: 00001AD0: 15:24:15 [TUniGUISessionManager]:Session manager terminated.
+HagilRep.exe: 00001AD0: 15:24:15 [TUniServerModule]:Server Shutdown Completed.
+HagilRep.exe: 00001AD0: 15:24:15 []:<-------------------------------------------------------------->
+HagilRep.exe: 00001AD0: 15:24:15 [Terminated]:Exit Code: 0
+HagilRep.exe: 000029C0: 15:25:10 []:>--------------------------------------------------------------<
+HagilRep.exe: 000029C0: 15:25:10 [TUniServerModule]:Server First Init.
+HagilRep.exe: 000029C0: 15:25:10 [TUniServerModule]:Erasing Cache Folder...
+HagilRep.exe: 000029C0: 15:25:10 [TUniServerModule]:Cache Folder Erased. <0> Files deleted.
+HagilRep.exe: 000029C0: 15:25:10 [TUniServerModule]:Starting HTTP Server...
+HagilRep.exe: 000029C0: 15:25:10 [TUniServerModule]:HTTP Server Started. Port: 8075
+HagilRep.exe: 00002F6C: 15:25:44 [HandleFileRequest[127.0.0.1]]:File not found: C:\Hágil\files\Font-Awesome-master\css\font-awesome.min.css
+HagilRep.exe: 00000130: 15:25:45 [HandleFileRequest[127.0.0.1]]:File not found: C:\Hágil\files\Font-Awesome-master\css\font-awesome.min.css
+HagilRep.exe: 000013B4: 15:30:20 [HandleFileRequest[127.0.0.1]]:File not found: C:\Hágil\files\Font-Awesome-master\css\font-awesome.min.css
+HagilRep.exe: 0000087C: 15:30:21 [HandleFileRequest[127.0.0.1]]:File not found: C:\Hágil\files\Font-Awesome-master\css\font-awesome.min.css
+HagilRep.exe: 00001CEC: 15:35:19 [127.0.0.1]:EDatabaseError : sql: Field 'subtotal' not found : Addr: $00674CFE
+HagilRep.exe: 00001904: 15:40:29 [HandleFileRequest[127.0.0.1]]:File not found: C:\Hágil\files\Font-Awesome-master\css\font-awesome.min.css
+HagilRep.exe: 00002B9C: 15:40:29 [HandleFileRequest[127.0.0.1]]:File not found: C:\Hágil\files\Font-Awesome-master\css\font-awesome.min.css
+HagilRep.exe: 00002220: 17:19:03 [127.0.0.1]:EUniSessionException : Tempo limite exedido ou o servidor foi reiniciado : Addr: $007DA83A
+HagilRep.exe: 00002220: 17:19:07 [HandleFileRequest[127.0.0.1]]:File not found: C:\Hágil\files\Font-Awesome-master\css\font-awesome.min.css
+HagilRep.exe: 000029C0: 17:19:44 [TUniServerModule]:Shutting Down Server.
+HagilRep.exe: 000029C0: 17:19:44 [TUniServerModule]:HTTP Server Stopped.
+HagilRep.exe: 000029C0: 17:19:44 [TUniGUISessionManager]:Terminating Session manager.
+HagilRep.exe: 000029C0: 17:19:44 [TUniGUISessionManager]:Stopping Cache Eraser...
+HagilRep.exe: 000029C0: 17:19:44 [TUniGUISessionManager]:Cache Eraser Stopped.
+HagilRep.exe: 000029C0: 17:19:44 [TUniGUISessionManager]:Destroying Worker Threads.
+HagilRep.exe: 000029C0: 17:19:45 [TUniGUISessionManager]:Session manager terminated.
+HagilRep.exe: 000029C0: 17:19:45 [TUniServerModule]:Server Shutdown Completed.
+HagilRep.exe: 000029C0: 17:19:45 []:<-------------------------------------------------------------->
+HagilRep.exe: 000029C0: 17:19:45 [Terminated]:Exit Code: 0
+HagilRep.exe: 000031FC: 17:21:13 []:>--------------------------------------------------------------<
+HagilRep.exe: 000031FC: 17:21:13 [TUniServerModule]:Server First Init.
+HagilRep.exe: 000031FC: 17:21:13 [TUniServerModule]:Erasing Cache Folder...
+HagilRep.exe: 000031FC: 17:21:13 [TUniServerModule]:Cache Folder Erased. <0> Files deleted.
+HagilRep.exe: 000031FC: 17:21:13 [TUniServerModule]:Starting HTTP Server...
+HagilRep.exe: 000031FC: 17:21:13 [TUniServerModule]:HTTP Server Started. Port: 8075
+HagilRep.exe: 0000333C: 17:21:32 [HandleFileRequest[127.0.0.1]]:File not found: C:\Hágil\files\Font-Awesome-master\css\font-awesome.min.css
+HagilRep.exe: 00001B70: 17:21:40 [HandleFileRequest[127.0.0.1]]:File not found: C:\Hágil\files\Font-Awesome-master\css\font-awesome.min.css
+HagilRep.exe: 00002F68: 18:17:25 [127.0.0.1]:EMySQLNativeException : [FireDAC][Phys][MySQL] Duplicate entry '62-18' for key 'PRIMARY' : Addr: $007DF6DA
+HagilRep.exe: 00002F68: 18:18:18 [127.0.0.1]:EMySQLNativeException : [FireDAC][Phys][MySQL] Duplicate entry '62-18' for key 'PRIMARY' : Addr: $007DF6DA
+HagilRep.exe: 00002F68: 18:18:41 [127.0.0.1]:EMySQLNativeException : [FireDAC][Phys][MySQL] Duplicate entry '62-18' for key 'PRIMARY' : Addr: $007DF6DA
+HagilRep.exe: 00002F68: 18:20:57 [127.0.0.1]:EDatabaseError : '1R$ 0,00' is not a valid floating point value for field 'acrescimo' : Addr: $00674D13
+HagilRep.exe: 00002F68: 18:21:04 [127.0.0.1]:EDatabaseError : '1R$ 0,00' is not a valid floating point value for field 'acrescimo' : Addr: $00674D13
+HagilRep.exe: 00002F68: 18:21:15 [127.0.0.1]:EDatabaseError : 'R$ 10,00' is not a valid floating point value for field 'acrescimo' : Addr: $00674D13
+HagilRep.exe: 00002F68: 18:21:22 [127.0.0.1]:EDatabaseError : 'R$ 0,001' is not a valid floating point value for field 'acrescimo' : Addr: $00674D13
+HagilRep.exe: 000031FC: 18:38:01 [TUniServerModule]:Shutting Down Server.
+HagilRep.exe: 000031FC: 18:38:02 [TUniServerModule]:HTTP Server Stopped.
+HagilRep.exe: 000031FC: 18:38:02 [TUniGUISessionManager]:Terminating Session manager.
+HagilRep.exe: 000031FC: 18:38:02 [TUniGUISessionManager]:Stopping Cache Eraser...
+HagilRep.exe: 000031FC: 18:38:02 [TUniGUISessionManager]:Cache Eraser Stopped.
+HagilRep.exe: 000031FC: 18:38:02 [TUniGUISessionManager]:Destroying Worker Threads.
+HagilRep.exe: 000031FC: 18:38:02 [TUniGUISessionManager]:Session manager terminated.
+HagilRep.exe: 000031FC: 18:38:02 [TUniServerModule]:Server Shutdown Completed.
+HagilRep.exe: 000031FC: 18:38:02 []:<-------------------------------------------------------------->
+HagilRep.exe: 000031FC: 18:38:02 [Terminated]:Exit Code: 0
+HagilRep.exe: 00002268: 18:39:48 []:>--------------------------------------------------------------<
+HagilRep.exe: 00002268: 18:39:48 [TUniServerModule]:Server First Init.
+HagilRep.exe: 00002268: 18:39:48 [TUniServerModule]:Erasing Cache Folder...
+HagilRep.exe: 00002268: 18:39:49 [TUniServerModule]:Cache Folder Erased. <0> Files deleted.
+HagilRep.exe: 00002268: 18:39:49 [TUniServerModule]:Starting HTTP Server...
+HagilRep.exe: 00002268: 18:39:49 [TUniServerModule]:HTTP Server Started. Port: 8075
+HagilRep.exe: 00002988: 18:40:08 [HandleFileRequest[127.0.0.1]]:File not found: C:\Hágil\files\Font-Awesome-master\css\font-awesome.min.css
+HagilRep.exe: 000026A8: 18:40:09 [HandleFileRequest[127.0.0.1]]:File not found: C:\Hágil\files\Font-Awesome-master\css\font-awesome.min.css
+HagilRep.exe: 00002268: 20:08:38 [TUniServerModule]:Shutting Down Server.
+HagilRep.exe: 00002268: 20:08:39 [TUniServerModule]:HTTP Server Stopped.
+HagilRep.exe: 00002268: 20:08:39 [TUniGUISessionManager]:Terminating Session manager.
+HagilRep.exe: 00002268: 20:08:39 [TUniGUISessionManager]:Stopping Cache Eraser...
+HagilRep.exe: 00002268: 20:08:39 [TUniGUISessionManager]:Cache Eraser Stopped.
+HagilRep.exe: 00002268: 20:08:39 [TUniGUISessionManager]:Destroying Worker Threads.
+HagilRep.exe: 000022E4: 20:22:26 []:>--------------------------------------------------------------<
+HagilRep.exe: 000022E4: 20:22:26 [TUniServerModule]:Server First Init.
+HagilRep.exe: 000022E4: 20:22:26 [TUniServerModule]:Erasing Cache Folder...
+HagilRep.exe: 000022E4: 20:22:26 [TUniServerModule]:Cache Folder Erased. <11> Files deleted.
+HagilRep.exe: 000022E4: 20:22:26 [TUniServerModule]:Starting HTTP Server...
+HagilRep.exe: 000022E4: 20:22:26 [TUniServerModule]:HTTP Server Started. Port: 8075
+HagilRep.exe: 00000B18: 20:22:37 [HandleFileRequest[127.0.0.1]]:File not found: C:\Hágil\files\Font-Awesome-master\css\font-awesome.min.css
+HagilRep.exe: 00001298: 20:22:39 [HandleFileRequest[127.0.0.1]]:File not found: C:\Hágil\files\Font-Awesome-master\css\font-awesome.min.css
+HagilRep.exe: 00000A88: 21:04:01 [127.0.0.1]:EUniSessionException : Tempo limite exedido ou o servidor foi reiniciado : Addr: $007DA83A
+HagilRep.exe: 00000A88: 21:04:01 [127.0.0.1]:EUniSessionException : Tempo limite exedido ou o servidor foi reiniciado : Addr: $007DA83A
+HagilRep.exe: 00000A88: 21:04:05 [HandleFileRequest[127.0.0.1]]:File not found: C:\Hágil\files\Font-Awesome-master\css\font-awesome.min.css
+HagilRep.exe: 000022E4: 21:19:44 [TUniServerModule]:Shutting Down Server.
+HagilRep.exe: 000022E4: 21:19:45 [TUniServerModule]:HTTP Server Stopped.
+HagilRep.exe: 000022E4: 21:19:45 [TUniGUISessionManager]:Terminating Session manager.
+HagilRep.exe: 000022E4: 21:19:45 [TUniGUISessionManager]:Stopping Cache Eraser...
+HagilRep.exe: 000022E4: 21:19:45 [TUniGUISessionManager]:Cache Eraser Stopped.
+HagilRep.exe: 000022E4: 21:19:45 [TUniGUISessionManager]:Destroying Worker Threads.
+HagilRep.exe: 000022E4: 21:19:45 [TUniGUISessionManager]:Session manager terminated.
+HagilRep.exe: 000022E4: 21:19:45 [TUniServerModule]:Server Shutdown Completed.
+HagilRep.exe: 000022E4: 21:19:45 []:<-------------------------------------------------------------->
+HagilRep.exe: 000022E4: 21:19:45 [Terminated]:Exit Code: 0
+HagilRep.exe: 0000100C: 21:20:40 []:>--------------------------------------------------------------<
+HagilRep.exe: 0000100C: 21:20:40 [TUniServerModule]:Server First Init.
+HagilRep.exe: 0000100C: 21:20:40 [TUniServerModule]:Erasing Cache Folder...
+HagilRep.exe: 0000100C: 21:20:40 [TUniServerModule]:Cache Folder Erased. <11> Files deleted.
+HagilRep.exe: 0000100C: 21:20:40 [TUniServerModule]:Starting HTTP Server...
+HagilRep.exe: 0000100C: 21:20:40 [TUniServerModule]:HTTP Server Started. Port: 8075
+HagilRep.exe: 000019C8: 21:20:47 [HandleFileRequest[127.0.0.1]]:File not found: C:\Hágil\files\Font-Awesome-master\css\font-awesome.min.css
+HagilRep.exe: 00000CA0: 21:20:50 [HandleFileRequest[127.0.0.1]]:File not found: C:\Hágil\files\Font-Awesome-master\css\font-awesome.min.css
+HagilRep.exe: 000004E0: 21:46:13 [127.0.0.1]:EMySQLNativeException : [FireDAC][Phys][MySQL] Duplicate entry '75-48' for key 'PRIMARY' : Addr: $007DF6DA
+HagilRep.exe: 0000100C: 22:06:12 [TUniServerModule]:Shutting Down Server.
+HagilRep.exe: 0000100C: 22:06:13 [TUniServerModule]:HTTP Server Stopped.
+HagilRep.exe: 0000100C: 22:06:13 [TUniGUISessionManager]:Terminating Session manager.
+HagilRep.exe: 0000100C: 22:06:13 [TUniGUISessionManager]:Stopping Cache Eraser...
+HagilRep.exe: 0000100C: 22:06:13 [TUniGUISessionManager]:Cache Eraser Stopped.
+HagilRep.exe: 0000100C: 22:06:13 [TUniGUISessionManager]:Destroying Worker Threads.
+HagilRep.exe: 0000100C: 22:06:13 [TUniGUISessionManager]:Session manager terminated.
+HagilRep.exe: 0000100C: 22:06:13 [TUniServerModule]:Server Shutdown Completed.
+HagilRep.exe: 0000100C: 22:06:13 []:<-------------------------------------------------------------->
+HagilRep.exe: 0000100C: 22:06:13 [Terminated]:Exit Code: 0
